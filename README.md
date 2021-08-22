@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-<!--
-**matCh00/matCh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-<a href='https://danilo.del-busso.com'>
-  <img width="70%" src='https://raw.githubusercontent.com/danilo-delbusso/danilo-delbusso/master/intro.gif'/>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=danilo-delbusso&show_icons=true'/>
-</a>
+<!--<a href='https://danilo.del-busso.com'>-->
+  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=matCh00&show_icons=true&theme=great-gatsby'/>
+  <img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=matCh00&layout=compact&theme=great-gatsby'/>
+<!--</a>-->
 </p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
