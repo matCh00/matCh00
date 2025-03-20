@@ -8,11 +8,12 @@
 
 # github pages:
 - [main page - match00.github.io](https://match00.github.io/)
-- [Portfolio v1 - match00.github.io](https://match00.github.io/Portfolio_v1/)
-- [Portfolio v2 - match00.github.io](https://match00.github.io/Portfolio_v2/)
-- [English Learning - match00.github.io](https://match00.github.io/EnglishLearning/)
+- [Portfolio v1](https://match00.github.io/Portfolio_v1/)
+- [Portfolio v2](https://match00.github.io/Portfolio_v2/)
+- [English Learning](https://match00.github.io/EnglishLearning/)
+- [JustTravel-Angular10](https://match00.github.io/JustTravel-Angular10/)
+- [JustTravel-Angular18](https://match00.github.io/JustTravel-Angular18/)
 
-# [importand repositories](https://github.com/matCh00?tab=stars)
 <!--
 Here are some ideas to get you started:
 
