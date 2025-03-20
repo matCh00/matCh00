@@ -6,8 +6,10 @@
 </p>
 -->
 
-# github pages:
+# Portfolio:
 - [main page - match00.github.io](https://match00.github.io/)
+
+# projects:
 - [Portfolio v1](https://github.com/matCh00/Portfolio_v1/)
 - [Portfolio v2](https://github.com/matCh00/Portfolio_v2/)
 - [English Learning](https://github.com/matCh00/EnglishLearning/)
