@@ -1,30 +1,9 @@
-<!--
-# Hi there 👋
-<p align="center">
-  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=matCh00&show_icons=true&theme=react'/>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=matCh00&layout=compact&theme=react'/>
-</p>
--->
+# Portfolio
+  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F0F0F0&width=400&lines=🔗+My+Portfolio;Check+My+Projects)](https://match00.github.io/)
 
-# Portfolio:
-- [main page - match00.github.io](https://match00.github.io/)
 
-# projects:
-- [Portfolio v1](https://github.com/matCh00/Portfolio_v1/)
-- [Portfolio v2](https://github.com/matCh00/Portfolio_v2/)
-- [English Learning](https://github.com/matCh00/EnglishLearning/)
-- [JustTravel-Angular10](https://github.com/matCh00/JustTravel-Angular10/)
-- [JustTravel-Angular18](https://github.com/matCh00/JustTravel-Angular18/)
+[<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://twoje-portfolio.pl" alt="QR Code"/>](https://match00.github.io/)
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
