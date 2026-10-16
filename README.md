@@ -17,6 +17,7 @@
 </div>
 
 <br />
+<br />
 
 <div align="center">
 
@@ -35,6 +36,7 @@
 </div>
 
 <br />
+<br />
 
 <div align="center">
 
@@ -43,8 +45,7 @@
 </a>
 
 <br />
-
-<sub>THE MAIN HUB</sub>
+<br />
 
 <h3>One link. Everything.</h3>
 
