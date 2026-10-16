@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=2600&amp;pause=750&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=IDEAS+INTO+EXPERIENCES.;CLICK+AROUND.+STAY+CURIOUS.;A+SMALL+CORNER+OF+THE+WEB" alt="Ideas into experiences. Click around. Stay curious." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=2600&amp;pause=750&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=IDEAS+INTO+EXPERIENCES.;CLICK+AROUND.+STAY+CURIOUS.;A+SMALL+CORNER+OF+THE+WEB" alt="Ideas into experiences. Click around. Stay curious." style="pointer-events: none; cursor: text;" />
 
 <br />
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-%E2%86%97-FFFFFF?style=for-the-badge&amp;labelColor=6D28D9&amp;color=0B1020" alt="Enter portfolio" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/✦-03%20FEATURED%20PROJECTS-0B1020?style=for-the-badge&amp;labelColor=0B1020&amp;color=0891B2" alt="Three featured projects" />
+<img src="https://img.shields.io/badge/✦-03%20FEATURED%20PROJECTS-0B1020?style=for-the-badge&amp;labelColor=0B1020&amp;color=0891B2" alt="Three featured projects" style="pointer-events: none; cursor: text;" />
 
 <br />
 <br />
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:8B5CF6,50:22D3EE,100:F472B6" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:8B5CF6,50:22D3EE,100:F472B6" width="100%" alt="" style="pointer-events: none; cursor: text;" />
 
 <br />
 
@@ -71,6 +71,6 @@
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=125&amp;color=0:0891B2,50:6D28D9,100:09090B&amp;text=STAY%20CURIOUS&amp;fontColor=FFFFFF&amp;fontSize=22&amp;fontAlignY=62&amp;animation=twinkling" width="100%" alt="Stay curious" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=125&amp;color=0:0891B2,50:6D28D9,100:09090B&amp;text=STAY%20CURIOUS&amp;fontColor=FFFFFF&amp;fontSize=22&amp;fontAlignY=62&amp;animation=twinkling" width="100%" alt="Stay curious" style="pointer-events: none; cursor: text;" />
 
 </div>
