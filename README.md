@@ -61,10 +61,6 @@
 </a>
 
 <br />
-
-<sub>SCAN · EXPLORE · ENJOY</sub>
-
-<br />
 <br />
 
 <a href="https://github.com/matCh00">
